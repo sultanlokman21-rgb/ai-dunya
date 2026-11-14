@@ -1,0 +1,18 @@
+[
+  {"name":"OpenAI","url":"https://openai.com/news/rss.xml","kind":"resmi","region":"ABD","family":"openai"},
+  {"name":"Google DeepMind","url":"https://deepmind.google/blog/rss.xml","kind":"resmi","region":"Birleşik Krallık","family":"google"},
+  {"name":"Google AI","url":"https://blog.google/technology/ai/rss/","kind":"resmi","region":"ABD","family":"google"},
+  {"name":"Google Research","url":"https://research.google/blog/rss/","kind":"resmi","region":"ABD","family":"google"},
+  {"name":"Hugging Face","url":"https://huggingface.co/blog/feed.xml","kind":"resmi","region":"Küresel","family":"huggingface"},
+  {"name":"Meta Newsroom","url":"https://about.fb.com/news/feed/","kind":"resmi","region":"ABD","family":"meta"},
+  {"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/feed/","kind":"resmi","region":"ABD","family":"microsoft"},
+  {"name":"NVIDIA","url":"https://blogs.nvidia.com/feed/","kind":"resmi","region":"ABD","family":"nvidia"},
+  {"name":"Mistral AI","url":"https://mistral.ai/news/rss","kind":"resmi","region":"Fransa","family":"mistral"},
+  {"name":"TechCrunch AI","url":"https://techcrunch.com/category/artificial-intelligence/feed/","kind":"bagimsiz","region":"ABD","family":"techcrunch"},
+  {"name":"MIT Technology Review","url":"https://www.technologyreview.com/topic/artificial-intelligence/feed","kind":"bagimsiz","region":"ABD","family":"mit"},
+  {"name":"The Verge AI","url":"https://www.theverge.com/rss/ai-artificial-intelligence/index.xml","kind":"bagimsiz","region":"ABD","family":"verge"},
+  {"name":"The Decoder","url":"https://the-decoder.com/feed/","kind":"bagimsiz","region":"Almanya","family":"decoder"},
+  {"name":"arXiv AI","url":"https://rss.arxiv.org/rss/cs.AI","kind":"onbaski","region":"Küresel","family":"arxiv"},
+  {"name":"arXiv Robotik","url":"https://rss.arxiv.org/rss/cs.RO","kind":"onbaski","region":"Küresel","family":"arxiv"},
+  {"name":"arXiv Dil Modelleri","url":"https://rss.arxiv.org/rss/cs.CL","kind":"onbaski","region":"Küresel","family":"arxiv"}
+]
