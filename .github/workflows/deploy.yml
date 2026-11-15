@@ -1,0 +1,45 @@
+
+name: AI Dunya Sitesini Yayinla
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Günlük AI haberlerini topla"]
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Dosyalari al
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pages ayarla
+        uses: actions/configure-pages@v5
+
+      - name: Site dosyalarini hazirla
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Siteyi yayinla
+        id: deployment
+        uses: actions/deploy-pages@v4
