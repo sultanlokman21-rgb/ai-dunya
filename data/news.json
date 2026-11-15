@@ -1,0 +1,1960 @@
+{
+  "updated_at": "2026-11-15T19:25:34.164268+00:00",
+  "item_count": 97,
+  "feed_failures": [
+    {
+      "source": "arXiv AI",
+      "error": "Akış boş veya ayrıştırılamadı"
+    },
+    {
+      "source": "arXiv Robotik",
+      "error": "Akış boş veya ayrıştırılamadı"
+    },
+    {
+      "source": "arXiv Dil Modelleri",
+      "error": "Akış boş veya ayrıştırılamadı"
+    }
+  ],
+  "items": [
+    {
+      "id": "1207b5c1c70bbc64",
+      "title_tr": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary_tr": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+      "translated": false,
+      "original_title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "date": "2026-11-15T19:15:43+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "65ecef2327a06bf0",
+      "title_tr": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "summary_tr": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on",
+      "translated": false,
+      "original_title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "date": "2026-11-15T15:42:03+00:00",
+      "category": "Yeni Modeller",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "fa1b9f395520374a",
+      "title_tr": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "summary_tr": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent. The article Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decoder .",
+      "translated": false,
+      "original_title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "date": "2026-11-15T14:45:12+00:00",
+      "category": "Donanım",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "4c525e5e54fa3645",
+      "title_tr": "An overview of Jensen Huang’s messy days",
+      "summary_tr": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "translated": false,
+      "original_title": "An overview of Jensen Huang’s messy days",
+      "date": "2026-11-15T13:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "7611c876b17c9451",
+      "title_tr": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary_tr": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers. The article Australia's central bank fi",
+      "translated": false,
+      "original_title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "date": "2026-11-15T10:45:58+00:00",
+      "category": "Yeni Modeller",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "6fc6bc2d3ff2654d",
+      "title_tr": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary_tr": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder .",
+      "translated": false,
+      "original_title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "date": "2026-11-15T10:06:06+00:00",
+      "category": "Donanım",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "cdf34d438f124e67",
+      "title_tr": "Where was Nvidia’s security team?",
+      "summary_tr": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "translated": false,
+      "original_title": "Where was Nvidia’s security team?",
+      "date": "2026-11-15T00:08:07+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "9a736294c460795d",
+      "title_tr": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary_tr": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "translated": false,
+      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "date": "2026-11-14T21:41:22+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "3a53f4732b0a8eba",
+      "title_tr": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "summary_tr": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a reco",
+      "translated": false,
+      "original_title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "date": "2026-11-14T19:05:17+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "b08cefd9996dfc5a",
+      "title_tr": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary_tr": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "translated": false,
+      "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "date": "2026-11-14T17:30:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "d82d2c1dae8dfaa0",
+      "title_tr": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "summary_tr": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder .",
+      "translated": false,
+      "original_title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "date": "2026-11-14T16:48:01+00:00",
+      "category": "Yeni Modeller",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "a5dca2d386f6a667",
+      "title_tr": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "summary_tr": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder .",
+      "translated": false,
+      "original_title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "date": "2026-11-14T16:42:56+00:00",
+      "category": "Yeni Modeller",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "2a2bfff1121f561b",
+      "title_tr": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary_tr": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "translated": false,
+      "original_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "date": "2026-11-14T16:34:15+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "d46b516a4c8344dc",
+      "title_tr": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summary_tr": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "translated": false,
+      "original_title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "date": "2026-11-14T15:00:00+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "567fa298898a17ca",
+      "title_tr": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary_tr": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "translated": false,
+      "original_title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "date": "2026-11-14T12:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "3fecc6a9d4a07de9",
+      "title_tr": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary_tr": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared fir",
+      "translated": false,
+      "original_title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "date": "2026-11-14T11:40:51+00:00",
+      "category": "Robotik",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "938a8fdebfb42929",
+      "title_tr": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary_tr": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon appeared fir",
+      "translated": false,
+      "original_title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "date": "2026-11-14T11:21:41+00:00",
+      "category": "Yeni Modeller",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "7bfee235c168b3e9",
+      "title_tr": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summary_tr": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder .",
+      "translated": false,
+      "original_title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "date": "2026-11-14T09:45:45+00:00",
+      "category": "Robotik",
+      "region": "Almanya",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Decoder",
+          "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "04367a7d0b10c58a",
+      "title_tr": "Amazon has a plan to index the world’s online shopping data",
+      "summary_tr": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+      "translated": false,
+      "original_title": "Amazon has a plan to index the world’s online shopping data",
+      "date": "2026-11-13T23:49:11+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "ad639fbc6552b9e9",
+      "title_tr": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary_tr": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "translated": false,
+      "original_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "date": "2026-11-13T22:43:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "951c84561943a913",
+      "title_tr": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "summary_tr": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+      "translated": false,
+      "original_title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "date": "2026-11-13T20:45:10+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "38741df50e34ad24",
+      "title_tr": "AI agent startup LangChain hits $3B valuation",
+      "summary_tr": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "translated": false,
+      "original_title": "AI agent startup LangChain hits $3B valuation",
+      "date": "2026-11-13T19:37:57+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "f17748102e2c4282",
+      "title_tr": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary_tr": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "translated": false,
+      "original_title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "date": "2026-11-13T18:40:30+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "2427bacb74a96b4b",
+      "title_tr": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "date": "2026-11-13T18:00:39+00:00",
+      "category": "Robotik",
+      "region": "Küresel",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "4e379f6cb9d33e5a",
+      "title_tr": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary_tr": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "translated": false,
+      "original_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "date": "2026-11-13T16:00:12+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "56623f1d9c94c2c4",
+      "title_tr": "The unfolding Jensen Huang scandal: a timeline",
+      "summary_tr": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "translated": false,
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "date": "2026-11-13T15:58:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "5bf4951adbe9698d",
+      "title_tr": "Introducing ChatGPT Wallet",
+      "summary_tr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "translated": false,
+      "original_title": "Introducing ChatGPT Wallet",
+      "date": "2026-11-13T15:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "627c324df106de1b",
+      "title_tr": "What’s really at stake in the Jensen Huang saga",
+      "summary_tr": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+      "translated": false,
+      "original_title": "What’s really at stake in the Jensen Huang saga",
+      "date": "2026-11-13T14:47:16+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "025a6c711bf81c35",
+      "title_tr": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary_tr": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "translated": false,
+      "original_title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "date": "2026-11-13T14:44:48+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "40e78db6601d46e6",
+      "title_tr": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "date": "2026-11-13T14:05:22+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "Küresel",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "cd9d1a105b69dd29",
+      "title_tr": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "summary_tr": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "translated": false,
+      "original_title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "date": "2026-11-13T14:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "ece4b84db3e9cab7",
+      "title_tr": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary_tr": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+      "translated": false,
+      "original_title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "date": "2026-11-13T13:00:42+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "e00ed907e42f1c2a",
+      "title_tr": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "summary_tr": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "translated": false,
+      "original_title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "date": "2026-11-13T12:52:19+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "69b43a95305bbe20",
+      "title_tr": "Jensen Huang didn’t show confidence in his successor, report says",
+      "summary_tr": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "translated": false,
+      "original_title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "date": "2026-11-13T12:28:23+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "71dad9da95c2fbfe",
+      "title_tr": "Let’s talk about Jensen Huang’s many affairs!",
+      "summary_tr": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+      "translated": false,
+      "original_title": "Let’s talk about Jensen Huang’s many affairs!",
+      "date": "2026-11-13T12:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "d1318183fe172893",
+      "title_tr": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_tr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "translated": false,
+      "original_title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "date": "2026-11-13T08:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "4e2810e47ea31ac4",
+      "title_tr": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary_tr": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "translated": false,
+      "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "date": "2026-11-12T22:42:51+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "82d9be95873a98db",
+      "title_tr": "Muse can now place calls to US businesses — if you pay",
+      "summary_tr": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "translated": false,
+      "original_title": "Muse can now place calls to US businesses — if you pay",
+      "date": "2026-11-12T22:22:28+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "3403360ccc1df753",
+      "title_tr": "Google’s new Gemini model is better at understanding complicated questions",
+      "summary_tr": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "translated": false,
+      "original_title": "Google’s new Gemini model is better at understanding complicated questions",
+      "date": "2026-11-12T21:55:32+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "1a84fda568160878",
+      "title_tr": "Microsoft Research Focus – Edition #98",
+      "summary_tr": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
+      "translated": false,
+      "original_title": "Microsoft Research Focus – Edition #98",
+      "date": "2026-11-12T21:31:57+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Microsoft Research",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "fc0f425d4885ad33",
+      "title_tr": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary_tr": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "translated": false,
+      "original_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "date": "2026-11-12T21:27:10+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "92467d3f16d5f88c",
+      "title_tr": "Jensen Huang was having a third affair, Reuters reports",
+      "summary_tr": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "translated": false,
+      "original_title": "Jensen Huang was having a third affair, Reuters reports",
+      "date": "2026-11-12T20:26:47+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "d1b4a114799fe3c5",
+      "title_tr": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary_tr": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+      "translated": false,
+      "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "date": "2026-11-12T20:16:24+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "5b0f73df89a6e310",
+      "title_tr": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary_tr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "translated": false,
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "date": "2026-11-12T20:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "875637b2c34d1326",
+      "title_tr": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary_tr": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "translated": false,
+      "original_title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "date": "2026-11-12T19:27:45+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "d3c21aad125298df",
+      "title_tr": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary_tr": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "translated": false,
+      "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "date": "2026-11-12T19:11:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "a88bddb17214a029",
+      "title_tr": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "date": "2026-11-12T19:07:35+00:00",
+      "category": "Yeni Modeller",
+      "region": "Küresel",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "3903c89c61e50edc",
+      "title_tr": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary_tr": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "translated": false,
+      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "date": "2026-11-12T18:39:23+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "a8d5fa7d24b3647f",
+      "title_tr": "Introducing Gemini 4 Hydrogen",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "Introducing Gemini 4 Hydrogen",
+      "date": "2026-11-12T18:00:50+00:00",
+      "category": "Yeni Modeller",
+      "region": "Birleşik Krallık",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "ad614f81e42f72e5",
+      "title_tr": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary_tr": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "translated": false,
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "date": "2026-11-12T18:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "5c8a7e2ce9e472f4",
+      "title_tr": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary_tr": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "translated": false,
+      "original_title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "date": "2026-11-12T17:36:40+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "91eeb3c1136d9128",
+      "title_tr": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary_tr": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+      "translated": false,
+      "original_title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "date": "2026-11-12T14:00:59+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "90d79223706ea3ab",
+      "title_tr": "Gondola doubles revenue as its team builds more with Codex",
+      "summary_tr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "translated": false,
+      "original_title": "Gondola doubles revenue as its team builds more with Codex",
+      "date": "2026-11-12T12:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "0990939c7d6ea9f7",
+      "title_tr": "Holiday Extras is rethinking what it can build with Codex",
+      "summary_tr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "translated": false,
+      "original_title": "Holiday Extras is rethinking what it can build with Codex",
+      "date": "2026-11-12T09:30:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "b06379671ede1f62",
+      "title_tr": "Supporting research on AI and children’s safety",
+      "summary_tr": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "translated": false,
+      "original_title": "Supporting research on AI and children’s safety",
+      "date": "2026-11-12T00:00:00+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/children-first-declaration",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "f28f90d2895a812c",
+      "title_tr": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary_tr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "translated": false,
+      "original_title": "Gilbert + Tobin rethinks the business of law with AI",
+      "date": "2026-11-12T00:00:00+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "cce714811b519a82",
+      "title_tr": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary_tr": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "translated": false,
+      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "date": "2026-11-11T18:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "bad6ee94c35695d3",
+      "title_tr": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary_tr": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "translated": false,
+      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "date": "2026-11-11T16:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "14eef01dc0f429cb",
+      "title_tr": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary_tr": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "translated": false,
+      "original_title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "date": "2026-11-11T09:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "80b38ea7da372c49",
+      "title_tr": "ChatGPT Plus for veterans and servicemembers",
+      "summary_tr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "translated": false,
+      "original_title": "ChatGPT Plus for veterans and servicemembers",
+      "date": "2026-11-11T08:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "b22522d14a17f95f",
+      "title_tr": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "date": "2026-11-11T05:01:16+00:00",
+      "category": "Yeni Modeller",
+      "region": "Küresel",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "a3f9078912ac05de",
+      "title_tr": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "summary_tr": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "translated": false,
+      "original_title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "date": "2026-11-11T03:00:20+00:00",
+      "category": "Robotik",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "8c999d6885d24711",
+      "title_tr": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary_tr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "translated": false,
+      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "date": "2026-11-11T00:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "71f09bf5cddc2e29",
+      "title_tr": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "summary_tr": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
+      "translated": false,
+      "original_title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "date": "2026-11-10T20:52:56+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Microsoft Research",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "b73105fe4ec5f060",
+      "title_tr": "Gemini Intelligence: New features, on more devices",
+      "summary_tr": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "translated": false,
+      "original_title": "Gemini Intelligence: New features, on more devices",
+      "date": "2026-11-10T19:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "fc6b6a56df7b3650",
+      "title_tr": "Gemini 4 Carbon is now available",
+      "summary_tr": "",
+      "translated": false,
+      "original_title": "Gemini 4 Carbon is now available",
+      "date": "2026-11-10T16:03:47+00:00",
+      "category": "Yeni Modeller",
+      "region": "Birleşik Krallık",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "405fdcad1ce1a75c",
+      "title_tr": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "summary_tr": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "translated": false,
+      "original_title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "date": "2026-11-10T16:00:03+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "66ed14c6418f09b7",
+      "title_tr": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary_tr": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "translated": false,
+      "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "date": "2026-11-10T14:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "02e4a20d191af380",
+      "title_tr": "Google Cloud launches Gemini for healthcare.",
+      "summary_tr": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "translated": false,
+      "original_title": "Google Cloud launches Gemini for healthcare.",
+      "date": "2026-11-10T13:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "46ecb159c1535b09",
+      "title_tr": "Helping caregivers use AI in everyday life",
+      "summary_tr": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "translated": false,
+      "original_title": "Helping caregivers use AI in everyday life",
+      "date": "2026-11-10T12:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "cd88f6cf71e07eac",
+      "title_tr": "Opening the datasets behind our AI weather models",
+      "summary_tr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "translated": false,
+      "original_title": "Opening the datasets behind our AI weather models",
+      "date": "2026-11-10T11:13:04+00:00",
+      "category": "Yeni Modeller",
+      "region": "Birleşik Krallık",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "5ca4dc7b6d88cb31",
+      "title_tr": "Introducing Businesses in ChatGPT",
+      "summary_tr": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "translated": false,
+      "original_title": "Introducing Businesses in ChatGPT",
+      "date": "2026-11-10T10:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "01a8528fa117926a",
+      "title_tr": "Closing the AI guidance gap in education",
+      "summary_tr": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "translated": false,
+      "original_title": "Closing the AI guidance gap in education",
+      "date": "2026-11-10T09:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "4e3e5904c85ae763",
+      "title_tr": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary_tr": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "translated": false,
+      "original_title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "date": "2026-11-10T08:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/singapore-airlines-travel-work",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "3588ceed41552e46",
+      "title_tr": "Work at the Frontier: AI’s effect on freelance work",
+      "summary_tr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "translated": false,
+      "original_title": "Work at the Frontier: AI’s effect on freelance work",
+      "date": "2026-11-10T07:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "1ff74ee2cb106637",
+      "title_tr": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary_tr": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "translated": false,
+      "original_title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "date": "2026-11-10T00:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/cogent-security",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "7da1b2b4758f6148",
+      "title_tr": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "summary_tr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "translated": false,
+      "original_title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "date": "2026-11-09T19:51:47+00:00",
+      "category": "Robotik",
+      "region": "Birleşik Krallık",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "c4cbbe764314d6f0",
+      "title_tr": "The backlash about data centers might really just be about electricity",
+      "summary_tr": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "translated": false,
+      "original_title": "The backlash about data centers might really just be about electricity",
+      "date": "2026-11-09T19:35:33+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "9c331579e229757a",
+      "title_tr": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary_tr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "translated": false,
+      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "date": "2026-11-09T19:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "7f47f4f4451cddf7",
+      "title_tr": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary_tr": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+      "translated": false,
+      "original_title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "date": "2026-11-09T17:05:43+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "7cd5e10290710b74",
+      "title_tr": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary_tr": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+      "translated": false,
+      "original_title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "date": "2026-11-09T14:00:01+00:00",
+      "category": "Robotik",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "f37b680abcf7adcb",
+      "title_tr": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary_tr": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "translated": false,
+      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "date": "2026-11-09T13:00:00+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/control-room",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "42e7d6fc3426371c",
+      "title_tr": "Innovating with AI in the special chemicals industry",
+      "summary_tr": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "translated": false,
+      "original_title": "Innovating with AI in the special chemicals industry",
+      "date": "2026-11-09T13:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "81bf65c7110bea2e",
+      "title_tr": "Expanding Teen Account Protections to Teens Around the World",
+      "summary_tr": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
+      "translated": false,
+      "original_title": "Expanding Teen Account Protections to Teens Around the World",
+      "date": "2026-11-09T12:00:45+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "Meta Newsroom",
+          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "6d49d73492813e52",
+      "title_tr": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "summary_tr": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
+      "translated": false,
+      "original_title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "date": "2026-11-09T08:00:53+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "23b94c697622500f",
+      "title_tr": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary_tr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "translated": false,
+      "original_title": "CodeRabbit scales agentic software development and ships 20x more",
+      "date": "2026-11-09T08:00:00+00:00",
+      "category": "Yeni Modeller",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "932fe34bad728f30",
+      "title_tr": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary_tr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "translated": false,
+      "original_title": "Kuken Industries searches 70 years of drawings in minutes",
+      "date": "2026-11-09T08:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/kuken",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "38995d3fca35a803",
+      "title_tr": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary_tr": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "translated": false,
+      "original_title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "date": "2026-11-09T05:00:40+00:00",
+      "category": "Robotik",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "51bc8200bfc724aa",
+      "title_tr": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary_tr": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+      "translated": false,
+      "original_title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "date": "2026-11-09T05:00:39+00:00",
+      "category": "Etik ve Düzenleme",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "60900222ede9bec5",
+      "title_tr": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary_tr": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "translated": false,
+      "original_title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "date": "2026-11-09T05:00:04+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "c5536f6e12371c5d",
+      "title_tr": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary_tr": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "translated": false,
+      "original_title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "date": "2026-11-09T05:00:00+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "2b3eb4eb79de73e7",
+      "title_tr": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "summary_tr": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "translated": false,
+      "original_title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "date": "2026-11-06T16:00:35+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "93fc4c1ba090e949",
+      "title_tr": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary_tr": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "translated": false,
+      "original_title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "date": "2026-11-06T10:00:00+00:00",
+      "category": "Robotik",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future",
+          "kind": "bagimsiz"
+        }
+      ]
+    },
+    {
+      "id": "bc8f9eac19663ff6",
+      "title_tr": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_tr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "translated": false,
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "date": "2026-11-06T08:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "cfd4354afa14004f",
+      "title_tr": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_tr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "translated": false,
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
+      "date": "2026-11-06T00:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "7eab5dddcfa7727d",
+      "title_tr": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "summary_tr": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "translated": false,
+      "original_title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "date": "2026-11-05T20:00:41+00:00",
+      "category": "Donanım",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+          "kind": "resmi"
+        }
+      ]
+    },
+    {
+      "id": "c88b52d0b21039c7",
+      "title_tr": "Cult.fit builds operational muscle with Codex",
+      "summary_tr": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "translated": false,
+      "original_title": "Cult.fit builds operational muscle with Codex",
+      "date": "2026-11-05T20:00:00+00:00",
+      "category": "Sektör ve Uygulamalar",
+      "region": "ABD",
+      "status": "Ek doğrulama gerekiyor",
+      "verification_note": "Bu gelişmeyle eşleşen ikinci bağımsız kaynak bulunamadı. Resmî açıklamalar da tarafın kendi beyanı olabilir.",
+      "source_count": 1,
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "kind": "resmi"
+        }
+      ]
+    }
+  ]
+}
